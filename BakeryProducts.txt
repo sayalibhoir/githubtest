@@ -5,6 +5,7 @@ Welcome to Delious Bakery !
 3. Vanilla Cakes
 4. Pastry
 5. Chocklates bucket
+6. Strawberry Cake
 
 
 Thank you :)
@@ -12,4 +13,6 @@ Thank you :)
 Done with Changes
 
 Finally Done with This Version
+
+
 
